@@ -1,1 +1,1 @@
-FAYE_TOKEN = "anything"
+FAYE_TOKEN = ENV['FAYE_TOKEN']
